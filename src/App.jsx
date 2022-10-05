@@ -16,7 +16,6 @@ const App = () => (
         <Navbar />
       </div>
     </div>
-
     <div className={`bg-primary ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         <Hero />
@@ -28,6 +27,7 @@ const App = () => (
       <div className={`${styles.boxWidth}`}>
         <Technique />
         <Engineering />
+        <CTA />
         <Footer />
       </div>
     </div>
