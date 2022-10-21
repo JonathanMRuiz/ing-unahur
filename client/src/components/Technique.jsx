@@ -8,11 +8,7 @@ const Technique = () => (
   >
     <section id="tecnicatura" className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>
-          Técnico/a
-          <br className="sm:block hidden" />
-          en Energía Eléctrica
-        </h2>
+        <h2 className={styles.heading2}>Tecnico/a en Energia Electrica</h2>
 
         <p className={`${styles.paragraph} max-w-[700px] mt-5`}>
           La carrera tiene por objetivo formar técnicos en el campo de la

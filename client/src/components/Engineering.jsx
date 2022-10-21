@@ -8,11 +8,7 @@ const Engineering = () => (
   >
     <section id="ingenieria" className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>
-          Ingeniero/a
-          <br className="sm:block hidden" />
-          Eléctrico/a
-        </h2>
+        <h2 className={styles.heading2}>Ingeniero/a Eléctrico/a</h2>
 
         <p className={`${styles.paragraph} max-w-[700px] mt-5`}>
           El/la ingeniero/a poseerá una sólida formación teórica y técnica que
